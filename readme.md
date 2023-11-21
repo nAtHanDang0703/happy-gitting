@@ -13,6 +13,8 @@ You can add images here as in any other markdown document:
   `git clone <url>`
 * make some edits  
   I like the weather today
+  
+  MR WORLDWIDE, 209
 * commit your edits  
   `git commit -am "<describe what did your do>"`
 * push edits back to gh!  
